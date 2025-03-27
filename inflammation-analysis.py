@@ -37,3 +37,6 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     main(args)
+
+if 1==1:
+    print('beans standard deviation')
